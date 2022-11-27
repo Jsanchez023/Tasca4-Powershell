@@ -1,0 +1,17 @@
+Ex1 - Genera un script que permeti enviar un correu per Gmail quan finalitzi la còpia d'uns fitxers. Pots reutilitzar el codi que vas utilitzar per fer les còpies de seguretat per tal que al finalitzar enviï un correu de confirmació.
+
+Primerament, demana les credencials del correu electrònic per enviar el correu.
+Si es dona un error de credencials realitzeu els següents passos:
+https://techexpert.tips/es/powershell-es/powershell-enviar-correo-electronico-con-gmail/
+
+A continuació, torna a demanar el correu emprat.
+
+S'executa el codi de la tasca1 i en la sortida del script envia el correu en cas d'una còpia exitosa.
+
+
+
+Ex2 - Genera un script que permeti enviar un correu per Gmail quan finalitzi la còpia d'uns fitxers. Pots reutilitzar el codi que vas utilitzar per fer les còpies de seguretat per tal que al finalitzar enviï un correu de confirmació.
+
+El script és exactament igual que l'anterior.
+La comanda que envia el correu l'envia amb els servidors d'office365.
+S'ha d'introduir les credencials d'un correu amb Office365 habilitat.
